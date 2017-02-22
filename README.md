@@ -1,1 +1,1 @@
-https://travis-ci.org/kevopottamus/gittest.svg?branch=master
+https://travis-ci.org/kevopottamus/Travis.svg?branch=master
